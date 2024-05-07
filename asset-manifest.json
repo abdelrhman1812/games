@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/games/static/css/main.94cae287.css",
-    "main.js": "/games/static/js/main.f0a394a7.js",
+    "main.css": "/games/static/css/main.7926bc45.css",
+    "main.js": "/games/static/js/main.e2bfb57b.js",
     "static/js/453.6bc34829.chunk.js": "/games/static/js/453.6bc34829.chunk.js",
     "static/media/Back-093d61ca.png": "/games/static/media/Back-093d61ca.eb0595c238040d80c28f.png",
-    "static/media/3.png": "/games/static/media/3.707caafe26673f566288.png",
     "static/media/img-artical.png": "/games/static/media/img-artical.707caafe26673f566288.png",
-    "static/media/1.png": "/games/static/media/1.ed2a86611d4202ed20de.png",
-    "static/media/2.png": "/games/static/media/2.a19ea915881426ebe129.png",
+    "static/media/3.png": "/games/static/media/3.bedc15d3694045e6a1cf.png",
+    "static/media/1.png": "/games/static/media/1.6881041e68900167c941.png",
     "static/media/fa-solid-900.ttf": "/games/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/news1-da291ea8.png": "/games/static/media/news1-da291ea8.63ae547c15712cefa329.png",
     "static/media/news2-efb5013c.png": "/games/static/media/news2-efb5013c.90f2c4efd1e9fa7fb505.png",
@@ -36,12 +35,12 @@
     "static/media/slick.ttf": "/games/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/games/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/games/index.html",
-    "main.94cae287.css.map": "/games/static/css/main.94cae287.css.map",
-    "main.f0a394a7.js.map": "/games/static/js/main.f0a394a7.js.map",
+    "main.7926bc45.css.map": "/games/static/css/main.7926bc45.css.map",
+    "main.e2bfb57b.js.map": "/games/static/js/main.e2bfb57b.js.map",
     "453.6bc34829.chunk.js.map": "/games/static/js/453.6bc34829.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94cae287.css",
-    "static/js/main.f0a394a7.js"
+    "static/css/main.7926bc45.css",
+    "static/js/main.e2bfb57b.js"
   ]
 }
